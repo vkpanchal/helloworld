@@ -1,0 +1,2 @@
+name="\tA \h string in Python is a sequence of characters.\n\t \\ It is a derived data type. Strings are immutable.\f \n\tThis means that once defined, they cannot be changed.Strings are amongst the most popular types in Python. \n\tWe can create them simply by enclosing characters in quotes.\n \tPython treats single quotes the same as double quotes. \n\tCreating strings is as simple as assigning a value to a variable";
+print(name);

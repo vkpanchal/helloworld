@@ -1,0 +1,8 @@
+Control Statements in Python
+Control statements in python are used to control the order of execution of the program based on the values and logic.
+
+Python provides us with 3 types of Control Statements:
+
+Continue
+Break
+Pass

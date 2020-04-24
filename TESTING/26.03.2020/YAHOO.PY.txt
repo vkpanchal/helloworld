@@ -1,0 +1,6 @@
+x = 3456789;
+y = -8282828288888;
+z = 4;
+print (type(x));
+print (type(y));
+print (type(z));
